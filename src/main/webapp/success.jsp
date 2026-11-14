@@ -1,0 +1,5 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feedback submitted</title><link rel="stylesheet" href="assets/style.css"></head><body>
+<header class="topbar"><a class="brand" href="index.jsp">Campus<span>Voice</span></a><nav><a href="index.jsp">Home</a><a href="admin">Admin Dashboard</a></nav></header>
+<main class="container success-wrap"><section class="panel success-panel"><div class="success-icon">✓</div><p class="eyebrow">RESPONSE RECEIVED</p><h1>Thank you for your feedback!</h1><p class="muted">Your response has been saved successfully. Your input helps improve the learning experience.</p><a class="btn link-btn" href="index.jsp">Submit another response →</a></section></main></body></html>
